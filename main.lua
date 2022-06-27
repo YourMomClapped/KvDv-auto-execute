@@ -1,3 +1,4 @@
+Wait(10)
 if game.PlaceId == 92604236 then
     loadstring(game:HttpGet(('https://raw.githubusercontent.com/CMD-X/CMD-X/master/Source'),true))()
     
