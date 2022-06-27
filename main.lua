@@ -1,3 +1,4 @@
+Wait(10)
 loadstring(game:HttpGet(('https://raw.githubusercontent.com/EdgeIY/infiniteyield/master/source'),true))()
 
 if game.PlaceId == 92604236 then
